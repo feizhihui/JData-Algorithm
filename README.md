@@ -4,4 +4,3 @@ using lstm model and achieved score 0.80 (Top 200/5000).
 
 [Link](http://www.datafountain.cn/projects/jdata/)
 
-**加粗**、*斜体*、~~删除线~~

@@ -4,4 +4,4 @@ using lstm model and achieved score 0.80 (Top 200/5000).
 
 [Link](http://www.datafountain.cn/projects/jdata/)
 
- `\`这是单行代码\``
+ ```这是单行代码```
